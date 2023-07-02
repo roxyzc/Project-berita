@@ -17,6 +17,10 @@ https://newsapi.org
 Masukkin APIKEY di lib/API/index.dart
 ```
 
+## Download
+```
+flutter pub get
+```
 
 ## Output
 
