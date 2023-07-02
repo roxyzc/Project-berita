@@ -4,9 +4,19 @@
 **_Kelas : TI.21.A.3</br>_**
 **_Nim : 312110169</br>_**
 
+
+## API
+
 ```
-required = apikey (lib/API/index.dart)
+https://newsapi.org
 ```
+
+## Noted
+
+```
+Masukkin APIKEY di lib/API/index.dart
+```
+
 
 ## Output
 
