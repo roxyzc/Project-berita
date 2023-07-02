@@ -10,4 +10,4 @@ required = apikey (lib/API/index.dart)
 
 ## Output
 
-![roxyzc](assets/img/ss.png);
+![roxyzc](assets/img/ss.png)
