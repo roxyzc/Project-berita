@@ -5,7 +5,7 @@
 **_Nim : 312110169</br>_**
 
 
-## GET APIKEY
+## Get Apikey
 
 ```
 https://newsapi.org
